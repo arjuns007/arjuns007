@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hey there, Arjun this side! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**arjuns007/arjuns007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Loves to code in Java and Python.
+- 🌱 I am currently learning Python for Data Science which will ease my path towards Data Science and Machine    Learning, where my core interest lies.
+- 👯 Ready to contribute in an Open Source Project! DM me!
+- 🥅 Future Plans: Dive deep into the world of Data Science and Machine Learning and make some end to end great projects on them!(Also including Deep Learning. :P).
+- ⚡ Experienced In Actively Partcipating And Securing Reputed Positions In Various Competitive Events.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+<summary>🤝 <b>Connect with me! <b></summary>
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjun-seth-6508b917a/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arjuns3th/)
+[![Visits Badge](https://badges.pufler.dev/visits/arjuns007/arjuns007?style=for-the-badge&color=blue)](https://github.com/arjuns007/arjuns007)
+![Repos Badge](https://badges.pufler.dev/repos/arjuns007?style=for-the-badge&color=red)
+[![GitHub followers](https://img.shields.io/github/followers/arjuns007.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/arjuns007?tab=followers)
+
+</p>
+
+</details>
+
+---
+
+---
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=arjuns007&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arjuns007&hide=css,html&theme=tokyonight">
+</p>
+
+</design>
