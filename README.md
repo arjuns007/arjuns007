@@ -1,7 +1,9 @@
 ### Hey there, Arjun this side! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 Loves to code in Java and Python.
-- 🌱 I am currently learning Python for Data Science which will ease my path towards Data Science and Machine    Learning, where my core interest lies.
+- 🌱 I am currently learning Python for Data Science which will ease my path towards Data Science and Machine Learning, where my core interest lies.
+- ⚡ For my ACHIEVEMENTS,PROJECTS,CERTIFICATIONS and to gain more information about me, don't forget to checkout my LINKEDIN profile!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjun-seth-6508b917a/)
 - 👯 Ready to contribute in an Open Source Project! DM me!
 - 🥅 Future Plans: Dive deep into the world of Data Science and Machine Learning and make some end to end great projects on them!(Also including Deep Learning. :P).
 - ⚡ Experienced In Actively Partcipating And Securing Reputed Positions In Various Competitive Events.
