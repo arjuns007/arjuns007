@@ -1,7 +1,7 @@
 ### Hey there, Arjun this side! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 Loves to code in Java and Python.
-- 🌱 I am currently learning how to use Python and it's related libraries for Data Science which will ease my path towards Data Science and Machine Learning, where my core interest lies.
+- 🔭 MAJOR SKILLS & INTERESTS: JAVA, DATA STRUCTURES AND ALGORITHMS, CROSS-PLATFORM MOBILE APPLICATION DEVELOPMENT (USING FLUTTER AND DART), PYTHON, DATA SCIENCE AND MACHINE LEARNING.
+- 🌱 Currently exploring the field of Data Science and Machine Learning and making great projects on them!
 - ⚡ To get more information about my EXPERIENCE,ACHIEVEMENTS,PROJECTS,CERTIFICATIONS and much more, don't forget to checkout my LINKEDIN profile!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjun-seth-6508b917a/)
 - 👯 Ready to contribute in an Open Source Project! DM me!
