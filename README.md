@@ -1,11 +1,11 @@
 ### Hey there, Arjun this side! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🚀 Smart working and highly organized individual who likes to solve real-world problems with a logical mindset along with the help of a very powerful tool called "Programming" and is also fond of learning new, better-emerging technologies.
-- 🚀 Currently pursuing B.Tech in Computer Science and Engineering with Specialization in Data Science from NIIT UNIVERSITY.
-- 🚀 To get more information about my EXPERIENCE,ACHIEVEMENTS,PROJECTS,CERTIFICATIONS and much more, don't forget to checkout my LINKEDIN profile!
+- 🚀  Smart working and highly organized individual who likes to solve real-world problems with a logical mindset along with the help of a very powerful tool called "Programming" and is also fond of learning new, better-emerging technologies.
+- 🚀  Currently pursuing B.Tech in Computer Science and Engineering with Specialization in Data Science from NIIT UNIVERSITY.
+- 🚀  To get more information about my EXPERIENCE,ACHIEVEMENTS,PROJECTS,CERTIFICATIONS and much more, don't forget to checkout my LINKEDIN profile!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjun-seth-6508b917a/)
-- 🚀 Experienced In Actively Partcipating And Securing Reputed Positions In Various Competitive Events.
-- 🧰 TECH I WORK ON:
+- 🚀  Experienced In Actively Partcipating And Securing Reputed Positions In Various Competitive Events.
+- 🧰  TECH I WORK ON:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
