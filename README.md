@@ -6,11 +6,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arjun-seth-6508b917a/)
 - 🚀 Experienced In Actively Partcipating And Securing Reputed Positions In Various Competitive Events.
 - 🧰 TECH I WORK ON:
-<p align="center">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
- 
- 
-</p>
 
 
 <details open>
