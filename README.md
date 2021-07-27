@@ -67,9 +67,9 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuns007)](https://git.io/streak-stats)
 </p>
 
- <center>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuns007)](https://git.io/streak-stats)
- </center>
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuns007)](https://git.io/streak-stats)
+ 
  
  
 
