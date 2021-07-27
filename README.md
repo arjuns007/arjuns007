@@ -64,7 +64,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=arjuns007&show_icons=true&theme=radical&line_height=27"> 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuns007)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuns007)](https://git.io/streak-stats)
 </p>
 
  
