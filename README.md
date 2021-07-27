@@ -69,7 +69,6 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuns007&theme=react)](https://git.io/streak-stats)
  
- <br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjuns007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
