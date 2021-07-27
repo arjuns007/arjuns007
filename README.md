@@ -66,9 +66,10 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=arjuns007&show_icons=true&theme=radical&line_height=27"> 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuns007)](https://git.io/streak-stats)
 </p>
-<p align = "center">
+
+ <center>
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjuns007)](https://git.io/streak-stats)
-</p>
+ </center>
  
  
 
